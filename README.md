@@ -6,7 +6,7 @@
 - 💬 Ask me about my experience with Rithm School
 - 📫 How to reach me: timothysukamtoh@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: I have an NFT of my cartoon self!
 <!--
 **timsukamtoh/timsukamtoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
