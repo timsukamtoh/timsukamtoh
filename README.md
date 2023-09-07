@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a personal script using pandas, repo to be published soon
+- 🌱 I’m currently learning about machine learning 
+- 🤔 I’m looking for help with any job referrals haha.. 
+- 💬 Ask me about my experience with Rithm School
+- 📫 How to reach me: timothysukamtoh@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: ... 
 <!--
 **timsukamtoh/timsukamtoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
 -->
