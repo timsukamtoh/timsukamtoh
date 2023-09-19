@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a personal script using pandas, repo to be published soon
 - 🌱 I’m currently learning about machine learning 
-- 🤔 I’m looking for help with any job referrals haha.. 
+- 🤔 I’m looking for help with learning Solidity! 
 - 💬 Ask me about my experience with Rithm School
 - 📫 How to reach me: timothysukamtoh@gmail.com
 - 😄 Pronouns: he/him/his
